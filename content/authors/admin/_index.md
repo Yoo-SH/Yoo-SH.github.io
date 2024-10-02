@@ -40,9 +40,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 웹개발
+  - IOT
+  - 인공지능(AI)
 
 education:
   - area: 컴퓨터공학부 학사과정
