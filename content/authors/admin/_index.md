@@ -10,7 +10,7 @@ first_name: SeungHyun
 last_name: Yoo
 
 # Status emoji
-status: happy
+status: 
   icon: 😄 
 
 # Is this the primary user of the site?
