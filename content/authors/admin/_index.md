@@ -82,40 +82,38 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 70
+        icon: devicon/python
+      - name: Javascript
+        description: ''
+        percent: 50
+        icon: devicon/javascript
+      - name: C++
+        description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: devicon/C++
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: fitness exercise
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
-      - name: Cats
+      - name: singing a song
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 70
+        icon: 
+      - name: reading the book
         description: ''
-        percent: 80
-        icon: camera
+        percent: 50
+        icon: 
 
 languages:
-  - name: English
+  - name: Korea
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
