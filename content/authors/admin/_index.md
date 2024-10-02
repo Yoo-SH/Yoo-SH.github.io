@@ -56,28 +56,24 @@ education:
       url: 'https://csai.jbnu.ac.kr/csai/29022/subview.do'
   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: 전주시 새활용센터 입주기업 길트기꾼 웹사이트 백엔드개발자
+    company_name: 전주시 새활용 센터
+    company_url: https://www.juccb.or.kr/main/inner.php?sMenu=main
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      ALL-UP 웹사이트 개발
+      - 업사이클링 제품판매 허브사이트 백엔드 개발
+  - position: 에픽모바일 현장실습생
+    company_name: 에픽모바일
+    company_url: https://www.saramin.co.kr/zf_user/company-info/view/csn/cGo4cnpybG1DU1RPK3V5VGhYeGhydz09/company_nm/(%EC%A3%BC)%EC%97%90%ED%94%BD%EB%AA%A8%EB%B0%94%EC%9D%BC
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-07-01
+    date_end: 2024-08-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      OASST 개발 
+      - WebHarvy를 이용하여, 네이버 지식인, 네이버 블로그, 네이버 카페, 로톡 등의  법률 관련 대화 데이터를 5만개 수집하여,ChatGPT와 같은 대화형 인공지능이 사용하는 학습 데이터인 OASST 트리형 테이블을 파이썬으로 만들고 데이터를 전처리함.  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
