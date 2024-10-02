@@ -131,4 +131,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요. 전북대학교 컴퓨터공학부 3학년에 재학중인 유승현입니다. 백엔드 개발쪽에 흥미를 가지고 있으며, 웹 개발 위해 nest js, postgresql, api, ttd, aws클라우드 서비스 등을 공부하고 있습니다. 올해의 목표는, 소규모로 운영하고 있는 업사이클링 기업들을 위해 업사이클링 제품을 판매할 수 있는 웹 사이트를 제작 하는 것입니다.
+
