@@ -30,9 +30,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'ads1374885@jbnu.ac.kr'
-    label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/shy000111/
   - icon: brands/github
