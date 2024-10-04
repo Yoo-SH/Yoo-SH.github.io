@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: '유승현'
+    description: '전북대학교 컴퓨터공학부, 유승현(202013833) 포트폴리오 홈페이지 제작입니다.'
+    twitter: '유승현'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Your Name"
+      image: ''
 
 # Site footer
 footer:
