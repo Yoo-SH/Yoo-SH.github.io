@@ -1,28 +1,23 @@
 ---
-title: Example Talk
+title: 서버사이드랜더링에 대한 짧은 견해
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 
+event_url: 
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: SSR(서버사이드 렌더링) 과정에서 겪었던 어려움을 짧게 설명하고자 합니다.
+abstract: 'SSR을 구현하면서 어려웠던 점은 클라이언트와 서버 간의 상태 동기화를 적절히 관리하는 것이었던 것 같다. 서버에서 렌더링된 페이지를 클라이언트로 전달하는 과정에서 초기 로딩 속도를 최적화하는 것이 까다로웠고, 특히 SEO 최적화를 위해 콘텐츠를 빠르게 렌더링하면서도 사용자 인터랙션에 대한 반응성을 유지하는 데 고민이 많았던 것 같다. 또한, 서버와 클라이언트 모두에서 발생할 수 있는 오류 처리와 복잡한 빌드 설정 관리도 꾀나 까다로웠던거 같다.'
+
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-04T13:00:00Z'
+date_end: '2024-10-04T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-10-04T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +28,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**]()'
   focal_point: Right
 
 #links:
@@ -41,10 +36,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,15 +56,3 @@ slides: ""
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
