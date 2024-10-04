@@ -80,3 +80,20 @@ es.card-basic {
 .fab:hover {
     background-color: #0056b3;
 }
+
+
+/* 예: 기본 버튼 스타일 */
+.btn {
+    background-color: #007bff; /* 기본 색상 */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* 부드러운 전환 효과 */
+}
+
+/* 마우스 호버 시 스타일 */
+.btn:hover {
+    background-color: #0056b3; /* 호버 시 색상 */
+}
