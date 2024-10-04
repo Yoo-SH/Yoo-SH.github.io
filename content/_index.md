@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: 약력사항
+        url: uploads/유승현_포트폴리오.pptx
     design:
       css_class: dark
       background:
