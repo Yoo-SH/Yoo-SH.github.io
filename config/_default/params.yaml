@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
+  font: sans-serif
+  favicon: 'favicon.ico'
 
 # SEO
 marketing:
@@ -36,6 +38,10 @@ header:
     show_search: true
     show_theme_chooser: true
     show_language_chooser: true
+    language_chooser:
+      enable: true
+      show_flags: true
+      show_name: true
     logo:
       text: "Yoo-SH"
       
