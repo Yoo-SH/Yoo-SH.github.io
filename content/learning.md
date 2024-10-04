@@ -10,9 +10,9 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: learning
     content:
       title: 관심있는 학습
+      text : 관심있는 학습에 대해 짧게 정리한 글 입니다.
       filters:
         folders:
           - learning
