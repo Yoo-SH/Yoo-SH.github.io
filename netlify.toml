@@ -1,3 +1,6 @@
+[params]
+  favicon = "static/favicon.ico"
+
 [build]
   command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
   publish = "public"
