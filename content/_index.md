@@ -14,12 +14,12 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      color: black
       # Show a call-to-action button under your biography? (optional)
       button:
         text: 약력사항
         url: uploads/유승현_포트폴리오.pptx
     design:
+      color: black
       css_class: dark
       background: 
         color: black
@@ -32,7 +32,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: learning
+    id: Learning
     content:
       title: 관심있는 학습
       filters:
