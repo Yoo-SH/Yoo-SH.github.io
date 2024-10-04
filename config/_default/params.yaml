@@ -6,9 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
-  font: sans-serif
-  favicon: '../../static/favicon.ico'
+  color: emerald
+  favicon: 'favicon.ico'
 
 # SEO
 marketing:
