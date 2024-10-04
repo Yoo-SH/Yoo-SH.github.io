@@ -1,0 +1,19 @@
+es.card-basic {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.card-image {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.card-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
