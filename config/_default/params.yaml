@@ -16,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: '유승현'
-    description: '전북대학교 컴퓨터공학부, 유승현(202013833) 포트폴리오 홈페이지 제작입니다.'
+    description: '전북대학교 컴퓨터공학부 유승현(202013833) 포트폴리오 홈페이지 제작입니다.'
     twitter: '유승현'
   analytics:
     google_analytics: ''
@@ -37,6 +37,10 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    theme_chooser:
+      enable: true
+      show_mode: true
+      show_color: true
     show_language_chooser: true
     language_chooser:
       enable: true
