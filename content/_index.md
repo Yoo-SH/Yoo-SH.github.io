@@ -32,6 +32,17 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: learning
+    content:
+      title: 관심있는 학습
+      filters:
+        folders:
+          - learning
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     content:
       title: Recent Publications
       text: ""
