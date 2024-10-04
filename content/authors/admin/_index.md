@@ -6,8 +6,8 @@ title: 유승현
 name_pronunciation: SeungHyun Yoo
 
 # Full name (for SEO)
-first_name: SeungHyun
-last_name: Yoo
+first_name: 
+last_name: 
 
 # Status emoji
 status: 
