@@ -32,7 +32,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: Learning
+    id: learning
     content:
       title: 관심있는 학습
       filters:
