@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: about
 date: 2024-03-25
 type: landing
 
@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -25,7 +25,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -36,7 +36,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -47,7 +47,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -58,7 +58,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -69,7 +69,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -80,7 +80,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
@@ -92,7 +92,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: image.png
             filters:
               brightness: 0.4
           position: center
