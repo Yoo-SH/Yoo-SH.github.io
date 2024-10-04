@@ -68,3 +68,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+  # External services
+  extensions:
+    academicons:
+      enable: true
