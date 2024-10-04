@@ -37,7 +37,7 @@ sections:
       title: 관심있는 학습
       filters:
         folders:
-          - publication
+          - learning
         featured_only: true
     design:
       view: article-grid
