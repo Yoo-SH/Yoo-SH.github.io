@@ -34,7 +34,7 @@ sections:
   - block: collection
     id: learning
     content:
-      title: Featured Publications
+      title: 관심있는 학습
       filters:
         folders:
           - publication
