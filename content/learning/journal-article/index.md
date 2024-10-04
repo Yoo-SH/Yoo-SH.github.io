@@ -28,7 +28,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+# Display this page in the Featured widget?
+featured: true
 
 # links:
 # - name: ""
