@@ -80,15 +80,15 @@ skills:
       - name: Python
         description: ''
         percent: 70
-        icon: devicon/python
+        icon: ''
       - name: Javascript
         description: ''
         percent: 50
-        icon: devicon/javascript
+        icon: ''
       - name: C++
         description: ''
         percent: 80
-        icon: devicon/C++
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -96,7 +96,7 @@ skills:
       - name: fitness exercise
         description: ''
         percent: 70
-        icon: person-simple-walk
+        icon: ''
       - name: singing a song
         description: ''
         percent: 70
