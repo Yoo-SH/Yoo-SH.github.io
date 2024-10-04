@@ -10,7 +10,7 @@ main:
     weight: 10
   - parent: Bio
     name: Learning
-    url: /#learning
+    url: learning/
     weight: 11
   - parent: Bio
     name: Talks
