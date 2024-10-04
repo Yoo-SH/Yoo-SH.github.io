@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: papers
+    id: learning
     content:
       title: Featured Publications
       filters:
