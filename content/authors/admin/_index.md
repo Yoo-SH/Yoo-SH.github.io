@@ -3,7 +3,7 @@
 title: 유승현
 
 # Name pronunciation (optional)
-name_pronunciation: SeungHyun Yoo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: 
@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: backend developer
+role: 'backend developer
+010-2547-9236'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -121,7 +122,7 @@ awards:
     url: https://www.jbtp.or.kr/index.jbtp
     date: '2024-08-01'
     awarder: 전북특별자치도지사
-    icon: jbtp
+    icon: 
     summary: |
       동물 의약/식품 상세 검색 서비스. 공공데이터 동물용 의약품 품목허가 상세정보를 수집하여, 크롤링 도구 웹하비로 해당 제품의 약품 식품 원재료 성분 상세정보 및 이미지를 parsing하여 데이터를 대량수집함. 해당 데이터를 성분 이미지를 OCR을 이용하여 성분 데이터를 자동입력 및 약간의 파인튜닝을 한 뒤, GPT를 이용하여 정보를 추출함. 이후, 이후 2개 이상 데이터를 join to 1 하는 등, 정보 합치기 정규화 후 DB에 저장. 또한 웹 개발 AI를 이용하여, 프론트 개발 작업을 시간을 최소화함. => 반려동물 셀프케어 식품지식 정보 제공
 ---
