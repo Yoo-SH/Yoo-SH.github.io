@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: emerald
-  favicon: 'favicon.ico'
+  favicon: '../../assets/media/icons/fab2.png'
 
 # SEO
 marketing:
