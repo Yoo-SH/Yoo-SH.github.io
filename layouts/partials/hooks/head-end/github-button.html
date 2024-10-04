@@ -7,7 +7,7 @@
         <ul class="language-menu">
             {{ range .Site.Languages }}
                 <li>
-                    <a href="{{ .Permalink }}">{{ .LanguageName }}</a>
+                    <a href="{{ .Page.Permalink }}">{{ .LanguageName }}</a>
                 </li>
             {{ end }}
         </ul>
