@@ -1,15 +1,1 @@
-<header>
-    <!-- 기존 헤더 내용 -->
-    <script async defer src="https://buttons.github.io/buttons.js"></script>    
-    <!-- 다국어 아이콘 및 언어 선택 메뉴 -->
-    <div class="language-selector">
-        <img src="{{ "icons/globe.png" | absURL }}" alt="Select Language" class="language-icon">
-        <ul class="language-menu">
-            {{ range .Site.Languages }}
-                <li>
-                    <a href="{{ .Page.Permalink }}">{{ .LanguageName }}</a>
-                </li>
-            {{ end }}
-        </ul>
-    </div>
-</header>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
