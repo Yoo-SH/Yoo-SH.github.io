@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 💻 컴퓨터공학부 전과
+summary: 컴퓨터 공학부로 전과하게된 이야기에 대한 글입니다.
+date: 2024-01-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -9,13 +9,13 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
-  - admin
-  - Ted
+  - 유승현
+  
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - 전북대학교 유승현
+  - 전북대 컴퓨터공학부
+  - 전북대 전과
 ---
 
 Welcome 👋
