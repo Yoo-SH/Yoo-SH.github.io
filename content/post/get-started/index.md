@@ -41,26 +41,17 @@ tags:
 ## 전과를 결심하게 된 결정적 계기
 
 ### 적성
-
+컴퓨터공학에 대한 흥미를 깨닫고 나서, 제가 코딩에 얼마나 적성이 맞는지 실감하게 된 순간이 많았습니다. 처음 자바를 배우고 게임 개발을 시작했을 때부터 시간이 가는 줄 모르고 코딩에 몰두하게 되었는데, 이 과정은 마치 게임을 즐기는 것과도 같았습니다. 특히, 문제를 분석하고 그에 맞는 알고리즘과 자료구조를 선택하여 해결하는 것이 마치 게임에서 적절한 스킬을 사용하는 것과 유사하다는 생각이 들었습니다. 게임에서 다양한 상황에 맞게 전략을 짜고 승리를 목표로 하는 것처럼, 코딩에서도 문제를 해결하고 최적의 방법을 찾아내는 과정이 저에게는 큰 성취감을 주었습니다. 복잡한 문제를 풀어가며 나만의 코드를 작성하고, 그 결과물이 바로 눈앞에 나타나는 순간이 정말 즐거웠습니다.
 
 ### 결과
+
+
+### 목표
 
 
 
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
 
 
