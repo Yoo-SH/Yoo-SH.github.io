@@ -109,7 +109,7 @@ AWS vs. Oracle Cloud: Oracle Cloud는 데이터베이스 관리에 특화되어 
 summary: AWS 클라우드 서비스가 가진 장단점에 얘기하고자 합니다.
 
 tags:
-- Source Themes
+- AWS cloud service
 # Display this page in the Featured widget?
 featured: true
 
