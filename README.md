@@ -14,6 +14,7 @@
 
 ## Reference
 
-**[Hugo 템플릿](https://github.com/HugoBlox/theme-academic-cv)**
 
-
+- [Hugo 템플릿](https://hugoblox.com/templates/)
+- [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+- [Hugo box docs](https://docs.hugoblox.com/)
