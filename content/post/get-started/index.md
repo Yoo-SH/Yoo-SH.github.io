@@ -27,22 +27,20 @@ tags:
 ## 전과하기 전 상황
 
 ### 입학
+저는 처음 전북대학교에 입학할 때 컴퓨터공학부가 아닌 행정학과로 입학했습니다. 고등학교 때까지는 진로에 대해 명확한 방향을 잡지 못하고 있었고, 사회과목에 흥미가 있던 저는 막연히 '행정학과에서 공부하면 좋겠다'라는 생각을 했습니다. 하지만 입학 후, 기대했던 것과는 달리 전공 과목들이 저에게 맞지 않다는 것을 느끼기 시작했습니다.
 
-### 성적
 
 ### 흥미
+행정학과에서 수강했던 전공 과목들은 저에게 크게 흥미를 주지 못했습니다. 처음엔 행정학의 이론을 배우고 다양한 정책 사례를 공부하면서 재미를 느껴보려 했지만, 시간이 지나면서 점점 왜 이런 내용들을 배워야 하는지에 대한 의문이 들기 시작했습니다. 특히, 실제 문제 해결에 적용하기엔 너무 이론적이라는 느낌이 들었고, 배우는 내용들이 저에게는 크게 의미 있게 다가오지 않았습니다. 이렇다 보니 학업에 대한 열정이 점점 식어갔고, 나 자신에게 적합한 학문에 대해 다시 고민하게 되었습니다.
 
 ### 경험
+제가 전과를 결심하게 된 결정적인 계기는 컴퓨터공학 관련 경험이었습니다. 어느 날 학교 내의 프로그래밍 수업에 참가하게 되었는데, 그곳에서 처음 접한 자바(Java) 프로그래밍이 저의 관심을 크게 끌었습니다. 자바를 이용해 간단한 게임을 만들어보는 프로젝트에 참여하게 되었고, 그 과정에서 논리적으로 사고하고 문제를 해결하는 과정이 너무 재미있었습니다.
 
+특히 제가 가장 열정을 쏟았던 프로젝트는 'Slay the Spire'라는 덱 빌딩 게임을 모티브로 한 간단한 게임을 만드는 것이었습니다. 게임의 룰을 설계하고, 캐릭터와 적의 움직임을 프로그래밍하는 과정에서 저는 게임 개발에 흥미를 느끼기 시작했습니다. 게임 내에서 발생할 수 있는 다양한 상황에 맞게 코드를 수정하고 최적화하는 작업은 마치 퍼즐을 푸는 것처럼 흥미로웠습니다. 이러한 경험을 통해 저는 프로그래밍에 대한 열정을 발견하게 되었고, 자연스럽게 컴퓨터공학에 관심을 가지게 되었습니다.
 
 ## 전과를 결심하게 된 결정적 계기
 
 ### 적성
-
-
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
