@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🎓전북대학교 입학
+summary: 2020년 전북대학교 입학에 대한 블로그 글입니다.(with SEO)
+date: 2020-03-01
 authors:
   - admin
 tags:
