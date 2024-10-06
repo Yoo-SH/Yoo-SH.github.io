@@ -111,6 +111,7 @@ MariaDB는 MySQL의 포크(fork)로, MySQL과의 호환성을 유지하면서 �
 <PostgreSQL vs. Oracle DB>
 Oracle DB는 상업적으로 지원되는 강력한 데이터베이스 시스템으로, 특히 대규모 엔터프라이즈 환경에서 사용됩니다. PostgreSQL은 Oracle과 비슷한 기능을 제공하지만, 오픈 소스이기 때문에 비용 측면에서 크게 유리합니다. 다만, Oracle은 고성능과 강력한 기술 지원을 제공하지만 PostgreSQL은 커뮤니티 기반의 지원과 일부 복잡한 설정에서 부족할 수 있습니다.'
 
+ 
 # Summary. An optional shortened abstract.
 summary: postsql이 가진 장단점에 얘기하고자 합니다.
 
