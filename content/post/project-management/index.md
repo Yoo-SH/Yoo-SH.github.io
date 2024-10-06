@@ -3,12 +3,13 @@ title: 🎓전북대학교 입학
 summary: 2020년 전북대학교 입학에 대한 블로그 글입니다.(with SEO)
 date: 2020-03-01
 authors:
-  - admin
+  - 유승현
 tags:
-  - Hugo Blox
-  - Markdown
+  - 전북대학교
+  - 유승현
+  - 입학
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%97%A4%EB%93%9C%ED%8F%B0%EC%9D%84-%EC%93%B4-%EC%98%81%EB%A6%AC%ED%95%9C-%EC%8B%AD-%EB%8C%80-%EC%86%8C%EB%85%80%EA%B0%80-%EB%8B%A4%EB%A5%B8-%ED%95%99%EC%83%9D%EB%93%A4%EC%9D%98-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B8%EB%AF%B8%EB%82%98%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%8F%99%EC%95%88-%EC%B1%85%EC%83%81%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A5%BC-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8B%A4-zjnHrnc72ro)'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
