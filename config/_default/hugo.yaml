@@ -10,7 +10,7 @@ title: 전북대학교 유승현 # Website name
 params:
   description: "전북대학교 컴퓨터공학부 유승현"
   author: "유승현"
-  ogImage: "favicon.ico" # 사이트를 대표하는 이미지의 경로
+  ogImage: "fab2.png" # 사이트를 대표하는 이미지의 경로
   ogType: "website"
   ogTitle: "전북대학교 유승현"
   ogDescription: "전북대학교 컴퓨터공학부 유승현입니다."
