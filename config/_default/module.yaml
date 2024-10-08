@@ -9,7 +9,7 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-  
+
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
   - source: hugo-blox/blox/community
@@ -19,7 +19,10 @@ mounts:
     target: layouts/partials/blox/
     includeFiles: '**.html'
   - source: hugo-blox/blox
-    target: assets/dist/community/blox/
+    target: assets/css/community/blox/
+    includeFiles: '**.css'
+  - source: assets/css
+    target: assets/css
     includeFiles: '**.css'
   - source: layouts
     target: layouts
