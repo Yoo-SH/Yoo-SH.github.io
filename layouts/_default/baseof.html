@@ -2,12 +2,14 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+    {{ block "head" . }}
     <meta property="og:image" content="{{ .Params.ogImage }}">
     <link rel="icon" href="{{ .Params.favicon }}" type="image/png">
     <link rel="stylesheet" href="../../assets/css/styles.css"> <!-- 추가한 CSS 파일 -->
+    {{ end }} 
 </head>
 <body>
-    
+    {{ block "main" . }}{{ end }} <!-- 기존 body 내용 유지 -->
 </body>
 </html>
 {{ end }}
