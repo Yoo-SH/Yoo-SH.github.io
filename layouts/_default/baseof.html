@@ -1,26 +1,15 @@
+{{ define "custom" }}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+    <meta property="og:image" content="{{ .Params.ogImage }}">
+    <link rel="icon" href="{{ .Params.favicon }}" type="image/png">
+    <link rel="stylesheet" href="../../assets/css/styles.css"> <!-- 추가한 CSS 파일 -->
     {{ block "head" . }}
-    <!-- 기본 head 요소들 -->
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    {{ end }}
+    {{ end }} <!-- 기존 head 내용 유지 -->
 </head>
 <body>
-    <header>
-        <!-- 헤더 영역 -->
-    </header>
-
-    <main>
-        {{ block "main" . }}
-        {{ .Content }}  <!-- 기본 콘텐츠 로드 -->
-        {{ end }}
-    </main>
-
-    <footer>
-        <!-- 푸터 영역 -->
-    </footer>
+    {{ block "main" . }}{{ end }} <!-- 기존 body 내용 유지 -->
 </body>
 </html>
+{{ end }}
