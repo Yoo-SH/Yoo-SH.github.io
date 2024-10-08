@@ -1,25 +1,11 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
-    
     {{ block "head" . }}
-    <!-- 기본 meta 태그들 -->
-    <meta name="description" content="{{ .Params.description }}">
-    
-    <!-- Open Graph (OG) 이미지 -->
-    {{ with .Params.ogImage }}
-    <meta property="og:image" content="{{ . }}">
-    {{ end }}
-
-    <!-- Favicon -->
-    {{ with .Params.favicon }}
-    <link rel="icon" href="{{ . }}" type="image/png">
-    {{ end }}
-
-    <!-- 스타일시트 -->
-    <link rel="stylesheet" href="/assets/css/styles.css"> <!-- 기본 스타일시트 -->
+    <!-- 기본 head 요소들 -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
     {{ end }}
 </head>
 <body>
@@ -29,7 +15,7 @@
 
     <main>
         {{ block "main" . }}
-        <p>This is the default content for the main block.</p>
+        {{ .Content }}  <!-- 기본 콘텐츠 로드 -->
         {{ end }}
     </main>
 
