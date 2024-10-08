@@ -1,5 +1,6 @@
 <!-- layouts/partials/metadata.html -->
 <!-- Open Graph 이미지 -->
+{{ define "rendering_data"}}
 <meta property="og:image" content="{{ .Params.ogImage }}">
 
 <!-- Favicon -->
@@ -10,3 +11,4 @@
 
 <!-- GitHub 버튼 스크립트 -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+{{ end }}

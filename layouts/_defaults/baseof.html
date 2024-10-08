@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
 
     <!-- 공통 메타 및 스타일을 포함하는 파셜 -->
-    {{ partial "github-button.html" . }}
+    {{ partial "rendering_data" . }}
     
     {{ block "head" . }}
     {{ end }}
