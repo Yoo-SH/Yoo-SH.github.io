@@ -8,6 +8,7 @@ appearance:
   theme_night: minimal
   mode: system
   color: emerald
+  favicon: "/assets/media/fab2.png"
 
 # SEO
 marketing:
