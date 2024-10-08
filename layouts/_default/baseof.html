@@ -1,13 +1,10 @@
-{{ define "custom" }}
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    
-    {{ block "head" . }}
-    {{ end }} <!-- 기존 head 내용 유지 -->
+    <!-- 메타 태그 및 CSS 링크 등 -->
+     
 </head>
 <body>
-    {{ block "main" . }}{{ end }} <!-- 기존 body 내용 유지 -->
+    {{ block "main" . }}{{ end }}
 </body>
 </html>
-{{ end }}
