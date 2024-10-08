@@ -8,7 +8,6 @@ appearance:
   theme_night: minimal
   mode: system
   color: emerald
-  favicon: true
 
 # SEO
 marketing:
