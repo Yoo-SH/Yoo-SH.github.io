@@ -20,16 +20,6 @@
 
 {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-<!-- layouts/partials/metadata.html -->
-<!-- Open Graph 이미지 -->
-<meta property="og:image" content="{{ .Params.ogImage }}">
-
-<!-- Favicon -->
-<link rel="icon" href="{{ .Params.favicon | default "/favicon.png" }}" type="image/png">
-
-<!-- GitHub 버튼 스크립트 -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 
 <div class="card">
   {{ with $resource }}
