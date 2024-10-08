@@ -1,4 +1,12 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- layouts/partials/metadata.html -->
+<!-- Open Graph 이미지 -->
 <meta property="og:image" content="{{ .Params.ogImage }}">
-<link rel="icon" href="/favicon.png" type="image/png">
-<link rel="stylesheet" href="../../../../assets/css/styles.css">
+
+<!-- Favicon -->
+<link rel="icon" href="{{ .Params.favicon | default "/favicon.png" }}" type="image/png">
+
+<!-- 스타일시트 -->
+<link rel="stylesheet" href="{{ "assets/css/styles.css" | relURL }}"> <!-- 상대 경로로 CSS 적용 -->
+
+<!-- GitHub 버튼 스크립트 -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
