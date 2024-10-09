@@ -1,0 +1,16 @@
+name = "Yoo-SH themes"
+
+[light]
+  
+  # Menu
+  menu_primary = "rgb(102, 102, 102)"
+
+  # Home sections
+  home_section_odd = "rgb(247, 250, 252)"
+  home_section_even = "rgb(247, 250, 252)"
+
+[dark]
+  
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+
